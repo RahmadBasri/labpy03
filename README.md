@@ -7,6 +7,10 @@ PENJELASAN latihan 1
 
 ![perulangan 2 (2)](https://user-images.githubusercontent.com/57025005/68455966-2c68b700-022f-11ea-9e77-c471e15a02c2.PNG)
 
+FLOWCHART latihan1.py
+
+![LATIHAN 1](https://user-images.githubusercontent.com/57025005/68644995-4f55dc80-0549-11ea-8d6b-dbc8e5c9a0a7.jpg)
+
 PENJELASAN latihan 2
 
 1. masukkan nilai
@@ -14,7 +18,18 @@ PENJELASAN latihan 2
 3. pengulangan Berhenti Ketika Memasukkan Angka 0 (nol)
 4. Dan akan Menampilkan nilai terbesar dari semua bilangan yang anda input. Untuk mencari bilangan terbesar dari banyaknya bilangan menggunakan fungsi max Fungsi max() adalah fungsi bulid-in untuk mencari nilai tertinggi. Fungsi ini dapat diberikan sebuah parameter berupa angka. dan Berikut hasilnya 
 
+
 ![0 kedua (2)](https://user-images.githubusercontent.com/57025005/68456288-fed03d80-022f-11ea-956a-434d3a654978.PNG)
+
+
+
+FLOWCHART latihan2.py
+
+![LATIHAN 2](https://user-images.githubusercontent.com/57025005/68644969-3b11df80-0549-11ea-870e-d6ae3c0b590f.jpg)
+
+
+
+
 
 PENJELASAN program 1
 
@@ -24,4 +39,3 @@ PENJELASAN program 1
 4. total keuntungan akan di tampilkan di akhir dengan menjumlahkan seluruh keuntungan yang dihasilkan dari persentasenya.
 
 ![laba ss (2)](https://user-images.githubusercontent.com/57025005/68456524-95046380-0230-11ea-8649-28da7f892a28.PNG)
-
